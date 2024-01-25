@@ -1,0 +1,171 @@
+.main{
+    padding:10px;
+    height:100vh;
+}
+.layout{
+    display:flex;
+}
+.text-center{
+    font-weight: bold;
+    color: rgb(5, 64, 94);
+    padding: 20px;
+    /* margin-bottom: 60px; */
+}
+
+.sidebar{
+    min-height:100%;
+    width:300px;
+    border-radius: 5px;
+    background-color: rgb(29, 21, 61); 
+    box-shadow:0 0 2px gray;
+    margin-right:20px;
+    color:white
+}
+
+.content{
+    width:100%;
+    height:100%;
+}
+/*.polaroid{
+ background-image:url("docappointment.png");
+width:100%;
+}*/
+.app{
+    font-Family:"bold";
+}
+.header{
+    height:10vh;
+    margin-bottom: 20px;
+    box-shadow: 0 0 2px red;
+    background-color:rgb(189, 207, 213);
+}
+.appointment{
+  /* background-color: rgb(144, 195, 213); */
+  text-align: center;
+  margin-bottom: 60px;
+  border-radius: 25px;
+
+  padding: 20px;
+}
+.booking{
+    text-align: center;
+    font-weight:bold;
+    color: rgb(5, 64, 94);
+    padding: 20px;
+    font-size: 40px;
+   
+    
+}
+
+.bookingpage{
+    padding:30px;
+    margin-left: 350px;
+    text-align:left;
+     
+}
+
+.text1{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(5, 64, 94);
+    padding: 20px;
+}
+.text{
+    font-weight: bold;
+    color: rgb(5, 64, 94);
+    padding:10px
+}
+.body{
+    background-color: aqua;
+}
+.header-content{
+    display:flex;
+    align-items: center;
+    height: 20px;
+    justify-content: flex-end;
+    margin:0 15px;
+}
+.header-content i{
+    margin-right: 20px;
+    font-size: 1.2rem;
+
+}
+.header-content a{
+    text-decoration: none;
+    color: rgb(18, 123, 208);
+    margin: 0 10px;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+}
+.body{
+    height:85vh;
+    margin-bottom: 20px;
+    box-shadow: 0 0 2px rgb(231, 57, 57);
+    background-color:rgb(189, 207, 213);
+    border-radius: 10px 10px;
+}
+.logo h6{
+    font-size: 1.5rem;
+    text-align: center;
+    margin:20px 0px;
+}
+.menu{
+    margin-top:50px;
+   
+}
+.menu-item{
+    margin-top:30px;
+}
+.menu-item a{
+  color: rgb(45, 140, 155);
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+.menu-item i{
+    font-size: 1.2rem;
+    margin: 0 15px;
+}
+.header{
+    padding-top: 2.5%;
+    font-weight: bold;
+    text-shadow: black;
+    border-radius:10px;
+    top:50%;
+    bottom: 50%;
+    max-height: 100vh;
+    text-align: center;
+}
+.active{
+    background-color: white;
+   padding: 10px;
+}
+.active a,.active i{
+    color:rgb(51,1,1)
+}
+.table{
+    width: 800px;
+    margin-left: 180px;
+    padding:30px;
+    text-align:center;
+    
+}
+.center{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(5, 64, 94);
+    padding: 20px; 
+}
+.card{
+    text-align:justify;
+    
+}
+.card-header{
+    text-align: center;
+    font-size: medium;
+    color:rgb(10, 12, 13);
+    background-color: rgb(143, 191, 215);
+}
+.spinner-border{
+    top: -50px;
+    bottom:-50px;
+}

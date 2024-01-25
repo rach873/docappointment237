@@ -1,0 +1,24 @@
+
+    
+
+.mainpage{
+    
+    background-image:url("homebackgroungimg.jpg");
+    background-size:cover;
+    
+    text-align: center;
+    text-decoration: solid;
+    color:blue;
+    min-height: 80vh;
+    top:70px;
+    text-decoration:dotted;
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     
+/* transform: translate(-50%,-50%);  */
+padding: 200px; 
+}
+.getstarted{
+    background-color: blue;
+    color:azure;
+}
